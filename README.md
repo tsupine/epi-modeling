@@ -1,2 +1,2 @@
 # epi_modeling
-epidemiology modeling - columbia
+epidemiology modeling - RStudio notebooks
